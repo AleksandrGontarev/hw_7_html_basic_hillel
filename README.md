@@ -1,5 +1,5 @@
 # Виконати верстку макету
-![maket.jpg] (./img/maket.jpg)
+! [maket.jpg] (./img/maket.jpg)
 
 # Технічне завдання
 
