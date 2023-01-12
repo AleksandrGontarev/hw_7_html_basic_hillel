@@ -154,7 +154,7 @@
     letter-spacing: 0.05em;
     color: #FFFFFF;
     text-decoration: none;
-    background: #F13C6E;
+    background: transparent;
     border: 2px solid #FFFFFF;
     border-radius: 40px;
     padding: 12px 42px 10px 45px;
@@ -194,17 +194,13 @@
 }
 
 .cards-chair-item:hover {
-    background-color: #aca6a7;
+    box-shadow: 10px 5px 5px rgb(65, 63, 63);
 }
 
 .img-cards-chair {
     padding-bottom: 14px;
 }
 
-.pb-1 {
-    padding-top: 25px;
-    padding-left: 20px;
-}
 
 .cards-chair-item a {
     text-decoration: none;
@@ -215,7 +211,7 @@
     line-height: 20px;
     color: #333333;
     padding-bottom: 16px;
-    padding-left: 2px;
+    font-weight: 400;
 }
 
 .cards-chair-item p {
@@ -225,7 +221,6 @@
     letter-spacing: 0.05em;
     color: #000000;
     padding-bottom: 14px;
-    padding-right: 3px;
 }
 
 .buy {
@@ -248,8 +243,6 @@
 .bottom:hover {
     background: #797173;
 }
-
-
 
 .footer {
     background-color: #FFFFFF;
